@@ -1,0 +1,296 @@
+/* ббаИаЛаИ баАаНбаИаБаОаКбаА */
+.fancybox-skin.izbr {
+    background: #7e8b0e;
+}
+
+.fancybox-skin.alert {
+    background: #f39100;
+}
+
+.fancybox-skin.alert p {
+    color: #fff;
+}
+
+.fancybox-skin.alert .btn-default {
+    color: #fff;
+    background: #f39100;
+    border: 2px solid #fff;
+}
+
+.fancybox-skin.alert .btn-default:focus, .fancybox-skin.alert .btn-default:hover {
+    background: #fea31d;
+}
+
+/* баЕаНббаАаЛбаНбаЙ аБаЛаОаК аКаОаНбаЕаНбаА */
+#task-content {
+    background: url('../images/green_bg.png') top center no-repeat transparent;
+}
+
+#login-top {
+    background: #f39100;
+    color: #fff;
+}
+
+#login-top a {
+    color: #1B3443;
+}
+
+/* аВаЕббаНбб баВаЕбаНаАб баАаПаКаА б аЗаАаГаОаЛаОаВаКаОаМ */
+#title-top {
+    background: #f39100;
+    color: #fff;
+}
+
+/* аКаНаОаПаПаКаИ аВбаБаОбаА аПаЛаАаНаИбаОаВаАаНаИб баАбб, аДаНаИ аИ баД */
+.nav-time {
+    color: #fff;
+}
+
+.button-select {
+    color: #fff;
+    background: transparent;
+    border: 2px solid #fff;
+}
+
+.button-select:hover {
+    background: #a4b131;
+    color: #fff;
+}
+
+.button-select.active {
+    background: #f39100;
+    border: 2px solid #f39100;
+    color: #fff;
+}
+
+/* аБаЛаОаКаИ аВаВаОаДаА аВбаВаОаДаА аВбаЕаМаЕаНаИ */
+section.table  .table-cell {
+    color: #fff;
+}
+
+.time-block-div {
+    background: #7d890e;
+    border: 0;
+}
+
+.time-block-div.all-time {
+    background: #d5e267;
+}
+
+#currTimeName, #toTimeName, #allTimeName {
+    color: #fff;
+}
+
+#currTimeName, #toTimeName {
+    color: #fff;
+}
+
+#allTimeName {
+    color: #6d780b;
+}
+
+#allTime {
+    color: #6d780b;
+}
+
+/* аИаНаПббб */
+form input.time {
+    color: #fff;
+    border-bottom: 1px dashed #fff;
+}
+
+form input.task, form input.inputTime {
+    color: #333;
+    border: 1px solid #b5c2c9;
+    background: #fff;
+}
+
+form input.task:focus, form input.inputTime:focus {
+    border: 1px solid #b5c2c9;
+}
+
+div.clock {
+    background: url('../images/clock_white.png') 0px center no-repeat transparent;
+}
+div.clock.date {
+    background: url('../images/calendar_white.png') -3px center no-repeat transparent;
+}
+/* аБаЛаОаКаИ баЕаНаНаОббаИ аИ аПаЕбаЕббаВб */
+form input.task-cost, form input.task-break {
+    color: #fff;
+    border: 1px solid transparent;
+}
+
+form input.task-break,form input.time-const {
+    background: #6d780b;
+    color: #fff;
+}
+
+/* аБаЛаОаК аЛаОаГаА */
+#log {
+    background: #1b3443;
+}
+
+#log h1 {
+    color: #fff;
+}
+
+#log-conteiner article {
+    border-bottom: 1px dashed #fff;
+}
+
+#log-conteiner input[name="task-log"] {
+    color: #fff;
+}
+
+div.gradient {
+    background: url('../images/gradient.png') 0 0 no-repeat transparent;
+}
+
+span.task-log-time {
+    color: #fff;
+    background: url('../images/clock_sky.png') 0 0 no-repeat transparent;
+}
+span.task-log-time.date {
+    background: url('../images/calendar_sky.png') 0 -3px no-repeat transparent;
+}
+
+span.task-log-period {
+    color: #fff;
+}
+
+a.copy-to-buffer {
+    color: #b6e9ff;
+    border-bottom: 1px dashed #b6e9ff;
+}
+
+a.copy-to-buffer:hover {
+    border-bottom: 0px dashed #b6e9ff;
+}
+
+/* аИбаОаГ аПаО аЛаОаГб */
+#itog-cost1 {
+    color: #d7ec28;
+}
+
+#itog-cost2 {
+    color: #b0bb01;
+}
+
+#itog-cost3 {
+    color: #eab105;
+}
+
+#itog-cost4 {
+    color: #f39100;
+}
+
+#log-itog article span {
+    color: #fff !important;
+}
+
+/* аИбаОаГ аПаО аЛаОаГб */
+#table-cell-cost1 .round {
+    border-color: #d7ec28;
+}
+
+#table-cell-cost2 .round {
+    border-color: #b0bb01;
+}
+
+#table-cell-cost3 .round {
+    border-color: #eab105;
+}
+
+#table-cell-cost4 .round {
+    border-color: #ee5621;
+}
+
+/* аБаОаКаОаВаАб аПаАаНаЕаЛб аНаАбббаОаЕаК  */
+#settins-panel {
+    color: #fff;
+    background: #7e8b0e;
+    border: 0;
+}
+
+#settins-button {
+    background: url('../images/settings-button-green.png') 0 0 repeat transparent;
+}
+
+#settins-panel a.switcher {
+    background: #e8edf1;
+}
+
+#settins-panel a.switcher.active {
+    background: url('../images/check_green.png') 5px 7px no-repeat #e8edf1;
+}
+
+#settins-panel input.time_deff {
+    color: #fff;
+    background: #7e8b0e;
+    border: 1px solid #fff;
+}
+
+#task-izb-section {
+    background: #7e8b0e;
+    color: #fff;
+}
+
+a.task-izb-a,a.settings-todoist-a {
+    color: #fff;
+    border-bottom: 1px dashed #fff;
+}
+
+/* calender  */
+.ui-timepicker-table td a.set-curent-time-10-min {
+    color: #6d780b;
+    border-bottom: 1px dashed #6d780b !important;
+}
+
+.ui-timepicker-table td a.set-curent-time-10-min:hover {
+    border-bottom: 1px dashed transparent !important;
+}
+
+#ui-timepicker-div {
+    background: #e1e4c7;
+    border: 1px solid #707c0b;
+}
+
+.ui-widget-content, .ui-state-disabled {
+    border: 0 !important;
+    background: #e1e4c7 !important;
+}
+
+.ui-timepicker-close {
+    background: transparent !important;
+    color: #869316 !important;
+    border: 2px solid #869316 !important;
+}
+
+.ui-timepicker-close:hover {
+    background: #f0f2db !important;
+}
+
+a.ui-state-default {
+    background: #869316 !important;
+    color: #fff !important;
+}
+
+.ui-timepicker-minute-cell a.ui-state-default {
+    background: #9dab24 !important;
+}
+
+a.ui-state-active {
+    background: #cad38d !important;
+    color: #58610b !important;
+}
+
+.ui-timepicker-minute-cell a.ui-state-active {
+    background: #cad38d !important;
+    color: #58610b !important;
+}
+
+a.ui-state-default:hover {
+    background: #adbb30 !important;
+    border: 1px solid #869316;
+}

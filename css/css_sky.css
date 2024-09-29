@@ -1,0 +1,276 @@
+/* стили фансибокса */
+.fancybox-skin.izbr {
+    background: #d6e3ea;
+}
+
+.fancybox-skin.alert {
+    background: #1b3443;
+}
+
+.fancybox-skin.alert p {
+    color: #fff;
+}
+
+.fancybox-skin.alert .btn-default {
+    color: #fff;
+    background: #1b3443;
+    border: 2px solid #fff;
+}
+
+.fancybox-skin.alert .btn-default:focus, .fancybox-skin.alert .btn-default:hover {
+    background: #345264;
+}
+
+/* центральный блок контента */
+#task-content {
+    background: url('../images/sky_bg.png') top center no-repeat transparent;
+}
+
+#login-top {
+    background: #3f6378;
+    color: #fff;
+}
+
+#login-top a {
+    color: #D3E0E7;
+}
+
+/* верхняя цветная шапка с заголовком */
+#title-top {
+    background: #3f6378;
+    color: #fff;
+}
+
+/* кноппки выбора планирования часы, дни и тд */
+.nav-time {
+    color: #3f6378;
+}
+
+.button-select {
+    color: #3f6378;
+    background: transparent;
+    border: 2px solid #3f6378;
+}
+
+.button-select:hover {
+    background: #a1c0d3;
+    color: #fff;
+}
+
+.button-select.active {
+    background: #f39100;
+    border: 2px solid #f39100;
+    color: #fff;
+}
+
+/* блоки ввода вывода времени */
+section.table  .table-cell {
+    color: #3f6378;
+}
+
+.time-block-div {
+    background: #3f6378;
+    border: 0;
+}
+
+.time-block-div.all-time {
+    background: #4c8cb2;
+}
+
+#currTimeName, #toTimeName, #allTimeName {
+    color: #fff;
+}
+
+#currTimeName, #toTimeName {
+    color: #fff;
+}
+
+#allTimeName {
+    color: #fff;
+}
+
+#allTime {
+    color: #fff;
+}
+
+/* инпуты */
+form input.time {
+    color: #fff;
+    border-bottom: 1px dashed #fff;
+}
+
+form input.task, form input.inputTime {
+    color: #333;
+    border: 1px solid #b5c2c9;
+    background: #fff;
+}
+
+form input.task:focus, form input.inputTime:focus {
+    border: 1px solid #b5c2c9;
+}
+
+div.clock {
+    background: url('../images/clock_white.png') 0px center no-repeat transparent;
+}
+div.clock.date {
+    background: url('../images/calendar_white.png') -3px center no-repeat transparent;
+}
+/* блоки ценности и перерывы */
+form input.task-cost, form input.task-break, form input.task-fixtime {
+    color: #fff;
+    border: 1px solid transparent;
+}
+
+form input.task-break, form input.task-fixtime,form input.time-const {
+    background: #3f6378;
+    color: #fff;
+}
+
+/* блок лога */
+#log {
+    background: #1b3443;
+}
+
+#log h1 {
+    color: #fff;
+}
+
+#log-conteiner article {
+    border-bottom: 1px dashed #fff;
+}
+
+#log-conteiner input[name="task-log"] {
+    color: #fff;
+}
+
+div.gradient {
+    background: url('../images/gradient.png') 0 0 no-repeat transparent;
+}
+
+span.task-log-time {
+    color: #fff;
+    background: url('../images/clock.png') 0 0 no-repeat transparent;
+}
+span.task-log-time.date {
+    background: url('../images/calendar.png') 0 -3px no-repeat transparent;
+}
+
+
+span.task-log-period {
+    color: #fff;
+}
+
+a.copy-to-buffer {
+    color: #b6e9ff;
+    border-bottom: 1px dashed #b6e9ff;
+}
+
+a.copy-to-buffer:hover {
+    border-bottom: 0px dashed #b6e9ff;
+}
+
+/* итог по логу */
+#table-cell-cost1 .round {
+    border-color: #d7ec28;
+}
+
+#table-cell-cost2 .round {
+    border-color: #b0bb01;
+}
+
+#table-cell-cost3 .round {
+    border-color: #eab105;
+}
+
+#table-cell-cost4 .round {
+    border-color: #ee5621;
+}
+
+/* боковая панель настроек  */
+#settins-panel {
+    color: #3f6378;
+    background: #b2bfc6;
+    border: 0;
+}
+
+#settins-button {
+    background: url('../images/settings-button-sky.png') 0 0 repeat transparent;
+}
+
+#settins-panel a.switcher {
+    background: #e8edf1;
+}
+
+#settins-panel a.switcher.active {
+    background: url('../images/check_sky.png') 5px 7px no-repeat #e8edf1;
+}
+
+#settins-panel input.time_deff {
+    color: #3f6378;
+    background: #b2bfc6;
+    border: 1px solid #3f6378;
+}
+
+#task-izb-section {
+    background: #d6e3ea;
+    color: #3f6378;
+}
+
+a.task-izb-a, a.settings-todoist-a {
+    color: #3f6378;
+    border-bottom: 1px dashed #3f6378;
+}
+
+
+
+/* calender  */
+.ui-timepicker-table td a.set-curent-time-10-min {
+    color: #3f6378;
+    border-bottom: 1px dashed #3f6378 !important;
+}
+
+#ui-timepicker-div {
+    background: #fff;
+    border: 1px solid #b6c3ca;
+}
+
+.ui-widget-content, .ui-state-disabled {
+    background: #fff !important;
+}
+
+.ui-timepicker-close {
+    color: #3f6378 !important;
+    border: 2px solid #3f6378 !important;
+}
+
+.ui-timepicker-close:hover {
+    background: #d1e5f2 !important;
+}
+
+.ui-widget-header {
+    color: #3f6378;
+}
+
+a.ui-state-default {
+    background: #87abc0 !important;
+    color: #fff !important;
+}
+
+.ui-timepicker-minute-cell a.ui-state-default {
+    background: #a1c0d3 !important;
+}
+
+a.ui-state-active {
+    background: #b4cfdf !important;
+    color: #3f6378 !important;
+}
+
+.ui-timepicker-minute-cell a.ui-state-active {
+    background: #cbe1ee !important;
+    color: #3f6378 !important;
+}
+
+a.ui-state-default:hover {
+    background: #769cb2 !important;
+    border: 1px solid #769cb2;
+}
